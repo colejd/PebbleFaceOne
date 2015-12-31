@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Proof of Concept",
+    "longName": "First Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/weathericons-regular-webfont.ttf",
+                "name": "FONT_WEATHER_ICONS_30",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "First Face",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "1ff670bb-343a-4106-a3d5-06012c117b5b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
